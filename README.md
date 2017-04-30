@@ -1,2 +1,3 @@
 # hello-world
-First code
+Hello coders,
+I do have interest in php coding, build web sites & learn web technologies.
